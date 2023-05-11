@@ -1,0 +1,111 @@
+.Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    flex: 1;
+    z-index: 100;
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(153.6deg, var(--secondary) 0%, var(--tertiary) 93.27%);
+}
+
+.SearchButton {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: calc(50% - 44px/2 + 393.5px);
+    top: 10px;
+
+    background: linear-gradient(150.01deg, rgba(55, 182, 233, 0.25) -0.01%, #4B4CED 100%);
+    border-radius: 10px;
+
+}
+
+.SearchIcon {
+
+    position: absolute;
+    width: 20.01px;
+    height: 20px;
+    left: calc(50% - 20.01px/2 + 0px);
+    top: calc(50% - 20px/2 + 0px);
+
+}
+
+.UserButtonStroke{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 45   px;
+    height: 45px;
+    left: calc(50% - 44px/2 + 493.5px);
+    top: 10px;
+    background: linear-gradient(135.69deg, rgba(255, 255, 255, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%);
+}
+
+.UserButton {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: calc(50% - 44px/2 + 493.5px);
+    top: 10px;
+
+    background: linear-gradient(150.01deg, rgba(55, 182, 233, 0.25) -0.01%, #4B4CED 100%);
+    border-radius: 10px;
+    }
+
+.UserIcon {
+
+    position: absolute;
+    width: 20px;
+    height: 21px;
+    left: calc(50% - 20px/2);
+    top: calc(50% - 21px/2);
+
+}
+
+.SearchBar {
+
+    position: absolute;
+    width: 608px;
+    height: 40px;
+    left: calc(50% - 608px/2 + 11.5px);
+    top: 10px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+border: none;
+}
+
+.SearchBar:focus {
+    outline: none;
+
+    
+}
+
+
+.Title {
+
+    position: absolute;
+    width: 161px;
+    height: 47px;
+    left: calc(50% - 161px/2 - 429px);
+    top: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}

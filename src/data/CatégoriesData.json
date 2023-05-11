@@ -1,0 +1,26 @@
+[
+{
+    "id" : "1",
+    "name" : "Toutes"
+
+},
+{
+    "id" : "2",
+    "name" : "Nouriture"
+
+},
+{
+    "id" : "3",
+    "name" : "Vétements"
+},
+{
+    "id" : "4",
+    "name" : "Cosmétique"
+},
+{
+    "id" : "5",
+    "name" : "Artisanat"
+}
+
+
+]

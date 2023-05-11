@@ -1,0 +1,43 @@
+[
+    {
+    "id" : "1",
+    "name" : "The Factory",
+    "address" : "Pointe à pitre",
+    "localisation" : "16.242741441107587, -61.53685685176317"},
+    { 
+    "id" : "2",
+    "name" : "Kaz à boudins",
+    "address" : " Zabyme",
+    "localisation" : "16.27631907210715, -61.49598595471367"},
+    { 
+    "id" : "3",
+    "name" : "Cosmétique 97",
+    "address" : "1 rue de la paix",
+    "localisation" : "-34.397, 150.644"},
+    { 
+    "id" : "4",
+    "name" : "Artisanat 97",
+    "address" : "1 rue de la paix",
+    "localisation" : "-34.397, 150.644"},
+    { 
+    "id" : "5",
+    "name" : "Vétement 97",
+    "address" : "1 rue de la paix",
+    "localisation" : "-34.397, 150.644"},
+    { 
+    "id" : "6",
+    "name" : "Marché Comunal du moule",
+    "address" : "Le moule",
+    "localisation" : "-34.397, 150.644"},
+    { 
+    "id" : "7",
+    "name" : "Sur place",
+    "address" : "1 rue de la paix",
+    "localisation" : "-34.397, 150.644"},
+    { 
+    "id" : "8",
+    "name" : "Point relait",
+    "address" : "1 rue de la paix",
+    "localisation" : "-34.397, 150.644"}
+
+]

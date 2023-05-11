@@ -1,0 +1,33 @@
+.product-view
+{
+    position: relative;
+    top: 160px;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* @media screen and ( min-width: 800px )
+{
+    .product-view
+    {
+        grid-template-columns: repeat( 3, 1fr );
+    }
+}
+
+@media screen and ( min-width: 1200px )
+{
+    .product-view
+    {
+        grid-template-columns: repeat( 5, 1fr );
+    }
+}
+
+@media screen and ( min-width: 1920px )
+{
+    .product-view
+    {
+        grid-template-columns: repeat( 5, 1fr );
+    }
+} */

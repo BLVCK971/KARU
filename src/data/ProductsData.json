@@ -1,0 +1,245 @@
+[
+  {
+    "id": "1",
+    "name": "Lotion tonique sans alcool tom",
+    "price": "à partir de 8 €",
+    "description": " 250 ml. La lotion tonique sans alcool est formulée sans apport d’alcool pour ainsi éviter que les rayons solaires ne causent des désagréments de tâches d’allergies. L’aloé vera apportera une excellente hydratation. L’extrait de pépins de pamplemousses et de Ginseng régulera votre sébum et tonifiera votre peau.",
+    "distributors": [1, 3, 6, 7],
+    "Producteurs": [1],
+    "Catégories": [1, 2],
+    "imgURL": "1.png"
+  },
+  {
+    "id": "2",
+    "name": "Huile de carapate zouti",
+    "price": "à partir de 10 €",
+    "description": "1 litre . L’huile de Carapate est une huile végétale provenant des graines de ricin présentant d’extraordinaires vertus.",
+    "distributors": [2, 3, 5],
+    "Producteurs": [2],
+    "Catégories": [1, 4],
+    "imgURL": "2.png"
+  },
+  {
+    "id": "3",
+    "name": "Karité pur 526",
+    "price": "à partir de 11 €",
+    "description": " 500 g. Le beurre de Karité est un excellent alié des peaux séches (corps, visage, lèvres contour des yeux) dont il améliore l'élastisticité",
+    "distributors": [3, 4],
+    "Producteurs": [3],
+    "Catégories": [1, 4],
+    "imgURL": "3.png"
+  },
+  {
+    "id": "4",
+    "name": "Déodorant Lavann blan 100% zeb",
+    "price": "à partir de  6€",
+    "description": " 70ml. Alpinia aerumbert, dictame,bicarbonate de soude, cire d'abeille, huile de coco",
+    "distributors": [1, 3, 6, 7, 8],
+    "Producteurs": [4],
+    "Catégories": [1, 4],
+    "imgURL": "4.png"
+  },
+  {
+    "id": "5",
+    "name": "Huile de coco Vierge yume",
+    "price": "à partir de  10€",
+    "description": " 1 Litre. Huile de première pression à friod. IdéalÉgalement appelée Beurre de Coco, cette huile est un ingrédient très apprécié pour ses propriétés protectrices, adoucissantes et émollientes sur la peau. Exotique et à l'odeur paradisiaque, elle s'emploie aussi pour créer des soins capillaires pour donner... ",
+    "distributors": [1, 3, 6, 7, 8],
+    "Producteurs": [5],
+    "Catégories": [1, 2, 4],
+    "imgURL": "5.png"
+  },
+
+  {
+    "id": "6",
+    "name": "Indigo naturel de Guadeloupe",
+    "price": "à partir de 10€",
+    "description": " 230 ml. LE PLUS BEL INDIGO DE LA PLANETE, AUX QUALITES EXCEPTIONNELLES  (Couleur, Odeur, Texture)! Pigment bleu naturel d’ Indigofera suffruticosa Mill. produit en Guadeloupe – par la future filiale de PHYTOBÔKAZ : Couleurbôkaz – à partir de cultures biologiques symbiotiques situées en moyenne montagne et hébergeant deux abeilles endémiques de Guadeloupe. GREEN‘ING participe à ce développement. ",
+    "distributors": [3],
+    "Producteurs": [6],
+    "Catégories": [1, 3, 4],
+    "imgURL": "6.png"
+  },
+  {
+    "id": "7",
+    "name": "Jupe Bleu ciel wax",
+    "price": "à partir de  60€",
+    "description": "Robe de toute les tailles. Le tissu wax est un tissus african produit en Hollande",
+    "distributors": [5],
+    "Producteurs": [7],
+    "Catégories": [1, 3],
+    "imgURL": "7.png"
+  },
+  {
+    "id": "8",
+    "name": "Jupe Bleu boncé, jaune wax",
+    "price": "à partir de  60€",
+    "description": "Robe de toute les tailles. Le tissu wax est un tissus african produit en Hollande",
+    "distributors": [5],
+    "Producteurs": [7],
+    "Catégories": [1, 3],
+    "imgURL": "8.png"
+  },
+  {
+    "id": "9",
+    "name": "Maré tête wax",
+    "price": "à partir de  25€",
+    "description": "Maré tete, modulable rigide taille unie. Le tissu wax est un tissus african produit en Hollande",
+    "distributors": [1, 5],
+    "Producteurs": [7],
+    "Catégories": [1, 3],
+    "imgURL": "9.png"
+  },
+  {
+    "id": "10",
+    "name": "Tunique à motif jaune et rouge florale wax",
+    "price": "à partir de  40€",
+    "description": "Tunique de toute les tailles. Le tissu wax est un tissus african produit en Hollande",
+    "distributors": [5],
+    "Producteurs": [7],
+    "Catégories": [1, 3],
+    "imgURL": "10.png"
+  },
+  {
+    "id": "11",
+    "name": "sac cabas à motif orange et rouge spiral wax",
+    "price": "à partir de  40€",
+    "description": "Sac de 10 litre. Le tissu wax est un tissus african produit en Hollande",
+    "distributors": [5],
+    "Producteurs": [7],
+    "Catégories": [1, 3],
+    "imgURL": "11.png"
+  },
+  {
+    "id": "12",
+    "name": "chaussure à motif jaune , bleu et rouge circulaire wax",
+    "price": "à partir de  60€",
+    "description": "De la taille 38 à 45 . Le tissu wax est un tissus african produit en Hollande",
+    "distributors": [5],
+    "Producteurs": [7],
+    "Catégories": [1, 3],
+    "imgURL": "12.png"
+  },
+
+  {
+    "id": "13",
+    "name": "Infusion Groseille Péyi",
+    "price": "à partir de  15€",
+    "description": "15 sachets d'infusion. Pour se réchauffer et se relaxer par ce froid, rien de tel qu’une infusion… et pour ajouter une touche ensoleillée, voici une version exotique préparée avec quelques pétales d’hibiscus séchés et de la citronnelle fraîche. Une fois que les pétales d’hibiscus (groseille pays ou bissap) ont infusé, on obtient un jus coloré, fruité et acidulé, ayant une forte teneur en calcium, vitamine C, niacine, riboflavine et fer. Je propose ici une version chaude, mais au retour des beaux jours, vous pouvez laisser refroidir l’infusion et la placer au réfrigérateur quelques heures avant de déguster… rafraîchissement garanti !",
+    "distributors": [1, 2, 8],
+    "Producteurs": [8],
+    "Catégories": [1, 2],
+    "imgURL": "13.png"
+  },
+  {
+    "id": "14",
+    "name": "Confiture de Mangue man féfé",
+    "price": "à partir de  10€",
+    "description": "Confiture de mangue, recette original",
+    "distributors": [1, 2, 7],
+    "Producteurs": [9],
+    "Catégories": [1, 2],
+    "imgURL": "14.png"
+  },
+  {
+    "id": "15",
+    "name": "Confiture extra de Mangue Fermiers de la Grande vigie",
+    "price": "à partir de  10€",
+    "description": "Pot de 230g, Composition: 70% de Mangue, sucre de canne, jus de citron ",
+    "distributors": [1, 2, 6],
+    "Producteurs": [10],
+    "Catégories": [1, 2],
+    "imgURL": "15.png"
+  },
+  {
+    "id": "16",
+    "name": "Farine de patate douce doudouss",
+    "price": "à partir de  10€",
+    "description": " Sac de 200g. ",
+    "distributors": [6],
+    "Producteurs": [11],
+    "Catégories": [1, 2],
+    "imgURL": "16.png"
+  },
+  {
+    "id": "17",
+    "name": "Confiture de cajou joujou",
+    "price": "à partir de  10€",
+    "description": " Pot de 130g",
+    "distributors": [7],
+    "Producteurs": [12],
+    "Catégories": [1, 2],
+    "imgURL": "17.png"
+  },
+
+  {
+    "id": "18",
+    "name": "Baton kako bien dur",
+    "price": "à partir de  8€",
+    "description": " 1 baton de 100g. à base de cacao 100% local",
+    "distributors": [1],
+    "Producteurs": [13],
+    "Catégories": [1, 2],
+    "imgURL": "18.png"
+  },
+  {
+    "id": "19",
+    "name": "Ti banc locallocal",
+    "price": "à partir de 15€",
+    "description": " 1 banc 100% local",
+    "distributors": [4],
+    "Producteurs": [14],
+    "Catégories": [1, 5],
+    "imgURL": "19.png"
+  },
+  {
+    "id": "20",
+    "name": "Armoire Acajou 5DF5",
+    "price": "à partir de 1500€",
+    "description": "Une armoir 3 porte en bois Acajou de guadeloupe Miroir",
+    "distributors": [4],
+    "Producteurs": [15],
+    "Catégories": [1, 5],
+    "imgURL": "20.png"
+  },
+  {
+    "id": "21",
+    "name": "Colier de graine et pierre 45",
+    "price": "à partir de 15€",
+    "description": " 1 collier de 35cm de long",
+    "distributors": [4],
+    "Producteurs": [16],
+    "Catégories": [1, 5],
+    "imgURL": "21.png"
+  },
+  {
+    "id": "22",
+    "name": "Ampoule calbasse motif feuilles de fruit à pain G5",
+    "price": "à partir de  25€",
+    "description": " 1 ampoule",
+    "distributors": [4],
+    "Producteurs": [17],
+    "Catégories": [1, 5],
+    "imgURL": "22.png"
+  },
+  {
+    "id": "23",
+    "name": "bouquet sur mesure flurkur",
+    "price": "à partir de 25€ ",
+    "description": " bouquet de fleurs antillaise et caraibéene",
+    "distributors": [4],
+    "Producteurs": [18],
+    "Catégories": [1, 5],
+    "imgURL": "23.png"
+  },
+  {
+    "id": "24",
+    "name": "Panier pique nique 23",
+    "price": "à partir de  25€",
+    "description": " 1 Panier de 20 Litre",
+    "distributors": [4],
+    "Producteurs": [19],
+    "Catégories": [1, 5],
+    "imgURL": "24.png"
+  }
+]

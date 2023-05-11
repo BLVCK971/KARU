@@ -1,0 +1,61 @@
+:root{
+--all_1 : #3F42C3;
+--all_2 : #37B6E9;
+--all_3 : #4B4CED;
+--all_4 : #282C6F;
+--all_5 : #282C6F;
+
+--food_1 : #E58C69;
+--food_2 : #CB7958;
+--food_3 : #FFA07A;
+--food_4 : #B16547;
+--food_5 : #985136;
+
+--cloth_1 : #6BB8D6;
+--cloth_2 : #4FA2C1;
+--cloth_3 : #87CEEB;
+--cloth_4 : #348CAC;
+--cloth_5 : #196F87;
+
+--makeup_1 : #D670D6;
+--makeup_2 : #BD5EBD;
+--makeup_3 : #EE82EE;
+--makeup_4 : #A54CA5;
+--makeup_5 : #8C3A8C;
+
+--craft_1 : #A67C7C;
+--craft_2 : #916A6A;
+--craft_3 : #BC8F8F;
+--craft_4 : #7B5757;  
+--craft_5 : #664545;
+
+--primary : #3F42C3;
+--secondary : #37B6E9;
+--tertiary : #4B4CED;
+--quaternary : #282C6F;
+--quinary : #282C6F;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  /* height: 100vh; */
+}
+
+body {
+  font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell,
+    'Open Sans', 'Helvetica Neue', sans-serif;
+    transition: background-color 0.5s ease;
+    background-color: var(--primary);
+}
+
+
+@media (min-width: 480px) {
+  h1 {
+    max-width: none;
+  }
+
+  p {
+    max-width: none;
+  }
+}

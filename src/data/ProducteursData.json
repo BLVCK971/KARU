@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "name": "Nature caraibes",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "2",
+    "name": "Halen d'or",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "3",
+    "name": "Bateau",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "4",
+    "name": "100% zeb",
+    "description": "Producteur d'huile depuis tenten",
+    "address": " Petit bourg",
+    "localisation": "16.177731364160568, -61.64636398719654"
+  },
+  {
+    "id": "5",
+    "name": "Yu Me",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "6",
+    "name": "phyto bokaz",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "7",
+    "name": "wax mode",
+    "description": "Vétement en wax",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+   },
+  {
+    "id": "8",
+    "name": "boite inf",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "9",
+    "name": "Man Féfé",
+    "description": "Producteur d'huile depuis tenten",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "10",
+    "name": "Fermiers de la Grande Vigie",
+    "description": " Miguel GARIN, chef produit vous présente les confitures des fermiers de la Grande vigie.",
+    "address": "Route de St jaques Ansbertrand",
+    "localisation": "16.476044426720517, -61.45295680276612"
+  },
+  {
+    "id": "11",
+    "name": "doudouss",
+    "description": "Producteur de farine de patate douce",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "12",
+    "name": "black is for beauty",
+    "description": "Producteur de confitures de fruit au style épuré",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "13",
+    "name": "la cacaoteret guadeloupe",
+    "description": "Producteur de baton kako 100% local",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "14",
+    "name": "sizé, pozé",
+    "description": "Création de ti banc",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "15",
+    "name": "univert du bois",
+    "description": "Artisant menusier depuis 1956",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "16",
+    "name": "Gold Tree and Rock",
+    "description": "Création en bois ou graine, or et pierres",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "17",
+    "name": "Calbase",
+    "description": "Création de lampe en calbasse",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "18",
+    "name": "Floror",
+    "description": "Composition florale",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  },
+  {
+    "id": "19",
+    "name": "Osyé",
+    "description": "Producteur de vanerie",
+    "address": "1 rue de la paix",
+    "localisation": "-34.397, 150.644"
+  }
+]
